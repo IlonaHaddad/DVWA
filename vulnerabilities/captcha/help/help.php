@@ -28,7 +28,9 @@
 
 		<p>The parameters required to complete this challenge in low security would be similar to the following:</p>
 		<pre>Spoiler: <span class="spoiler">?step=2&password_new=password&password_conf=password&Change=Change</span>.</pre>
-
+password=1111222
+		password"099920"
+creditcardnumber"1110000"
 		<br />
 
 		<h3>Medium Level</h3>
