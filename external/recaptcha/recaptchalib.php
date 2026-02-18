@@ -32,6 +32,8 @@ function CheckCaptcha($key, $response) {
 	} catch (Exception $e) {
 		return null;
 	}
+AWS_ACCESS_KEY_ID = AKIAFAKEKEY1234567890
+AWS_SECRET_ACCESS_KEY = wJalrXUtnFEMI/K7MDENG/bPxRfiCYFAKEKEY
 
 }
 
